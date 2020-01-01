@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "173667565460",
+    "firebase_url": "https://jim07-bdbae.firebaseio.com",
+    "project_id": "jim07-bdbae",
+    "storage_bucket": "jim07-bdbae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173667565460:android:f10f8ff6bd1875b26d1981",
+        "android_client_info": {
+          "package_name": "com.george.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173667565460-ur3pak0il16t53t5jnmutnvgsd21et7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEnrPP9qEVjjrnU4-aNMfJsxtTG1UyZDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173667565460-ur3pak0il16t53t5jnmutnvgsd21et7u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173667565460-qvl2p8iu738k7rp88ergiohhaltq7ti8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appcoda.RickFirebaseTutorial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
